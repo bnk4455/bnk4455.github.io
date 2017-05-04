@@ -1,0 +1,141 @@
+
+.navbar-brand {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 50px;
+  color: #337ab7;
+}
+
+nav {
+  background-color: #fde3a8;
+  color: #6d7a8a;
+}
+
+.navbar-default .navbar-fnt {
+  color: #337ab7;
+  background-color: #fde3a8;
+}
+.navbar-default .navbar-backgrnd {
+    color: #CC3333;
+}
+
+.carousel-inner {
+
+  width: 100%;
+  height: auto;
+  margin-bottom: 50px;
+
+}
+
+.carousel-caption p {
+  font-family: 'Open Sans', sans-serif;
+  color: #777777;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.text-content h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 50px;
+  margin-top: 200px;
+  background-color: #e7e7e0;
+  height: 200px;
+  width: 400px;
+  color: #777777;
+}
+
+body {
+  background-color: #f8f8f8;
+}
+
+.about-me-text {
+  font-family: 'Open Sans', sans-serif;
+  margin-bottom: 50px;
+
+}
+
+.row {
+  margin-top: 100px;
+
+
+}
+.row img{
+  height: 300px;
+  width: auto;
+}
+.img-about-me-img img {
+  height: 300px;
+  float: right;
+}
+
+.content-2d h1 {
+  margin-top: 50px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 50px;
+  color: #777777;
+}
+
+.content-2d-p p {
+  margin-top: 50px;
+  font-family: 'Open Sans', sans-serif;
+  color: #777777;
+  margin-bottom: 50px;
+}
+
+.doc-img .row img {
+  height: auto;
+  width: 300px;
+  align-items: center;
+}
+
+.doc-content h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 50px;
+  color: #777777;
+}
+
+.doc-content p {
+  margin-top: 30px;
+  font-family: 'Open Sans', sans-serif;
+  color: #777777;
+  margin-bottom: 30px;
+}
+
+.doc-img p {
+  font-family: 'Open Sans', sans-serif;
+  color: #777777;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.row .thumbnail h3 {
+
+  font-family: 'Open Sans', sans-serif;
+  color: #777777;
+  font-style: italic;
+  font-weight: bold;
+
+}
+
+.row .thumbnail p {
+  font-family: 'Open Sans', sans-serif;
+  color: #777777;
+}
