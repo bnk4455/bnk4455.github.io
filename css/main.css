@@ -155,3 +155,35 @@ body {
   background: #f8f8f8;
   font-family: 'Open Sans', sans-serif;
 }
+.modal-body {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  color: #777777;
+}
+.modal-body h3 {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  color: #777777;
+  font-style: italic;
+  font-weight: bold;
+}
+.modal-body p {
+  text-align: justify;
+  font-family: 'Open Sans', sans-serif;
+  color: #777777;
+}
+.modal-footer {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  color: #777777;
+  font-style: italic;
+  font-weight: bold;
+}
+
+h4 {
+  text-align: justify;
+  font-family: 'Open Sans', sans-serif;
+  color: #777777;
+  font-style: italic;
+  font-weight: bold;
+}
