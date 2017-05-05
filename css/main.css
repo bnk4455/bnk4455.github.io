@@ -168,7 +168,7 @@ body {
   font-weight: bold;
 }
 .modal-body p {
-  text-align: justify;
+  text-align: center;
   font-family: 'Open Sans', sans-serif;
   color: #777777;
 }
@@ -181,7 +181,7 @@ body {
 }
 
 h4 {
-  
+
   font-family: 'Open Sans', sans-serif;
   color: #777777;
   font-style: italic;
