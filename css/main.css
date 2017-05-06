@@ -1,13 +1,18 @@
 .row .col-md-4 img {
-  height: 100px;
-  width: 100px;
+  height: 200px;
+  width: 200px;
   margin: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+
 }
 .row .col-md-4 {
   margin-top: 100px;
   float: left;
   margin-left: 50px;
   margin-bottom: 50px;
+  width: 100%;
+  height: 800px;
 
 }
 
@@ -17,12 +22,13 @@
   font-weight: bold;
   font-style: italic;
   font-size: 50px;
-  color: #337ab7;
+  
 }
 
 nav {
   background-color: #fde3a8;
   color: #6d7a8a;
+
 }
 
 .navbar-default .navbar-fnt {
