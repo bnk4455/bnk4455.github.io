@@ -83,7 +83,7 @@ a {
   background-color: inherit;
 }
 .col-md-6 .photo {
-  background-image: url("image/IMG_9454.jpg");
+  background: url("../image/IMG_9454.jpg")
   background-size: 100% auto;
   background-repeat: no-repeat;
   height: 468px;
