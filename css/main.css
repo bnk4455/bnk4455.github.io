@@ -31,7 +31,7 @@ body {
   background-color: #000000;
 }
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
-  border-color: #000000;
+  border: none;
 }
 .btn {
   border-radius: 0px;
