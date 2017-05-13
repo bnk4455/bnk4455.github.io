@@ -126,8 +126,7 @@ a {
   background-image: url("../2D/Smoke-01.jpg");
   background-size: 100% auto;
   background-repeat: no-repeat;
-  height: 500px;
-  width: auto;
+  width: 100%;
 }
 .jumbotron h1 {
   font-size: 72px;
@@ -162,11 +161,14 @@ h3 {
   background-image: url("../img/landscape/IMG_3350.JPG");
   background-size: 100% auto;
   background-repeat: no-repeat;
-  height: 500px;
-  width: auto;
+  width: 100%;
 }
 .photo-text {
   margin: 70px;
   color: #FFFFFF;
   font-family: 'Open Sans', sans-serif;
+}
+.img-rounded {
+  width: 90%;
+  height: auto;
 }
