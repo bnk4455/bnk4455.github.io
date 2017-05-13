@@ -174,17 +174,25 @@ h3 {
   width: 90%;
   height: auto;
 }
+.quotes  {
+  text-align: center;
+  margin-top: 50px;
 
+}
 .quotes h1  {
-  float: left;
+
   font-family: 'Inconsolata', monospace;
-  text-align: left;
+
   font-size: 32px;
 
 }
 .quotes p {
-  float: right;
-  text-align: right;
+
   font-family: 'Open Sans', sans-serif;
-  opacity: 0.5;
+  color: #FFFFFF;
+}
+.col-md-12 {
+
+  text-align: center;
+
 }
