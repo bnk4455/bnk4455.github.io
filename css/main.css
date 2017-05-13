@@ -71,6 +71,8 @@ a {
 .contant {
   text-align: center;
 
+
+
 }
 .contant h1 {
   color: #FFFFFF;
@@ -171,4 +173,18 @@ h3 {
 .img-rounded {
   width: 90%;
   height: auto;
+}
+
+.quotes h1  {
+  float: left;
+  font-family: 'Inconsolata', monospace;
+  text-align: left;
+  font-size: 32px;
+
+}
+.quotes p {
+  float: right;
+  text-align: right;
+  font-family: 'Open Sans', sans-serif;
+  opacity: 0.5;
 }
