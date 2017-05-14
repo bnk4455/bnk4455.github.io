@@ -83,6 +83,7 @@ a {
 }
 .jumbotron {
   background-color: inherit;
+  text-align: center;
 }
 .col-md-6 .photo {
   background: url("../image/IMG_9454.jpg");
@@ -93,12 +94,8 @@ a {
 
 }
 .col-md-6 .photo a {
-
-  font-size: 72px;
+  font-size: 250%;
   color: #FFFFFF;
-
-
-
 }
 .col-md-6 .photo a:hover {
   font-weight: bold;
@@ -114,7 +111,7 @@ a {
   height: 468px;
 }
 .col-md-6 .ai a {
-  font-size: 72px;
+  font-size: 250%;
   color: #FFFFFF;
 }
 .col-md-6 .ai a:hover {
@@ -158,12 +155,24 @@ h3 {
 .modal-body img {
   margin: 10px;
 }
-.photo-content .jumbotron{
+.photo-content .jumbotron {
   text-align: center;
   background-image: url("../img/landscape/IMG_3350.JPG");
   background-size: 100% auto;
   background-repeat: no-repeat;
   width: 100%;
+}
+.photo-content .jumbotron h1 {
+  width: 90%;
+  height: auto;
+
+  font-size: 300%;
+}
+.ai-content .jumbotron h1 {
+  width: 90%;
+  height: auto;
+
+  font-size: 300%;
 }
 .photo-text {
   margin: 70px;
