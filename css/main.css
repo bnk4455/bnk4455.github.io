@@ -16,14 +16,14 @@ body {
 .navbar-default .navbar-nav li a {
   color: #000000;
   background-color: #FFFFFF;
+  font-weight: bold;
 
 
 }
 .navbar-default{
   background-color: #ffffff;
   border: none;
-
-
+  font-family: 'Open Sans', sans-serif;
 }
 .navbar-header a{
   font-weight: bold;
@@ -50,6 +50,7 @@ a {
 }
 .modal-body{
   text-align: center;
+  color: #FFFFFF;
 }
 .modal-footer {
   border-top: none;
@@ -134,6 +135,9 @@ a {
   font-family: 'Open Sans', sans-serif;
   margin: 30px;
 }
+.jumbotron a {
+  color: #D1D1CF;
+}
 .col-md-6 img {
   margin: 10px;
 }
@@ -149,7 +153,7 @@ hr {
   color: #FFFFFF;
   font-family: 'Open Sans', sans-serif;
 }
-h3 {
+h3,h4{
   opacity: 0.5;
 }
 .modal-body img {
@@ -187,6 +191,9 @@ h3 {
   text-align: center;
   margin-top: 50px;
 
+}
+.quotes a {
+  color: #D1D1CF;
 }
 .quotes h1  {
 
