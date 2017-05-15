@@ -10,7 +10,7 @@ body {
 
 
 }
-.container-fluid{
+.container-fluid {
   background-color: #FFFFFF;
 }
 .navbar-default .navbar-nav li a {
@@ -123,9 +123,10 @@ a {
 }
 .ai-content .jumbotron {
   text-align: center;
-  background-image: url("../2D/Smoke-01.jpg");
+  background-image: url("../2D/Isometric-01.jpg");
   background-size: 100% auto;
   background-repeat: no-repeat;
+  background-position: center;
   width: 100%;
 }
 .jumbotron h1 {
@@ -184,7 +185,7 @@ h3,h4{
   font-family: 'Open Sans', sans-serif;
 }
 .img-rounded {
-  width: 90%;
+  width: 70%;
   height: auto;
 }
 .quotes  {
