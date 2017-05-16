@@ -221,3 +221,14 @@ h3,h4{
 .carousel-inner p {
   float: right;
 }
+.jumbotron .full button {
+  float: right;
+  color: #FFFFFF;
+  margin: 10px;
+
+
+}
+.btn {
+  background-color: inherit;
+  border: none;
+}
