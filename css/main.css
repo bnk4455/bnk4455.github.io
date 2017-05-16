@@ -129,16 +129,7 @@ a {
   background-position: center;
   width: 100%;
 }
-.jumbotron h1 {
-  font-size: 72px;
-  color: #f5e0cd;
-  font-weight: bold;
-  font-family: 'Open Sans', sans-serif;
-  margin: 30px;
-}
-.jumbotron a {
-  color: #D1D1CF;
-}
+
 .col-md-6 img {
   margin: 10px;
 }
@@ -168,18 +159,7 @@ h3,h4{
   background-position: center;
   width: 100%;
 }
-.photo-content .jumbotron h1 {
-  width: 90%;
-  height: auto;
 
-  font-size: 300%;
-}
-.ai-content .jumbotron h1 {
-  width: 90%;
-  height: auto;
-
-  font-size: 300%;
-}
 .photo-text {
   margin: 70px;
   color: #FFFFFF;
@@ -200,7 +180,7 @@ h3,h4{
 .quotes h1  {
 
   font-family: 'Inconsolata', monospace;
-
+  color: #FFFFFF;
   font-size: 32px;
 
 }
@@ -227,4 +207,17 @@ h3,h4{
 }
 .col-md-4 {
   text-align: center;
+}
+.modal-footer a {
+  color: #FFFFFF;
+  float: left;
+}
+.carousel-control {
+  position: absolute;
+  bottom: 0;
+  top: inherit;
+  text-shadow: none;
+}
+.carousel-inner p {
+  float: right;
 }
