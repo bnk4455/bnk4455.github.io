@@ -71,16 +71,16 @@ a {
 }
 .contant {
   text-align: center;
-
-
-
 }
 .contant h1 {
   color: #FFFFFF;
 }
 .col-md-6 {
-
   text-align: center;
+}
+.banner .row .col-md-6 {
+  padding-left: 0px;
+  padding-right: 0px;
 }
 .jumbotron {
   background-color: inherit;
@@ -153,7 +153,7 @@ h3,h4{
 }
 .photo-content .jumbotron {
   text-align: center;
-  background-image: url("../img/landscape/IMG_3350.JPG");
+  background-image: url("../imgs/IMG_0458.jpg");
   background-size: 100% auto;
   background-repeat: no-repeat;
   background-position: center;
@@ -225,10 +225,38 @@ h3,h4{
   float: right;
   color: #FFFFFF;
   margin: 10px;
-
-
+}
+.full-img img {
+  align-items: center;
 }
 .btn {
   background-color: inherit;
   border: none;
+}
+.port img {
+  margin: 0px;
+}
+.contant-photo-1 {
+  width: 70%;
+  height: auto;
+}
+.col-md-4 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 0px;
+  margin-right: 0px;
+
+}
+
+.col-md-4 .photo-1{
+  background-image: url("../imgs/img/Panorama1.jpg");
+  background-size: 100% auto;
+
+
+
+}
+.photo-1 a {
+  float: right;
+  color: #ffffff;
+  margin-top: -30px;
 }
