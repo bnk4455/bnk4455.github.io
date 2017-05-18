@@ -251,12 +251,18 @@ h3,h4{
 .col-md-4 .photo-1{
   background-image: url("../imgs/img/Panorama1.jpg");
   background-size: 100% auto;
-
-
-
 }
 .photo-1 a {
   float: right;
   color: #ffffff;
   margin-top: -30px;
+}
+.email a {
+  font-style: normal;
+  font-weight: lighter;
+}
+.email a:hover {
+  
+  text-decoration: underline;
+  font-weight: bold;
 }
