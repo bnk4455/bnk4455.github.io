@@ -262,7 +262,10 @@ h3,h4{
   font-weight: lighter;
 }
 .email a:hover {
-  
   text-decoration: underline;
   font-weight: bold;
+}
+.contant-ai-1 {
+  width: 70%;
+  height: auto;
 }
