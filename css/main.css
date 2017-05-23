@@ -121,6 +121,14 @@ a {
   text-decoration: none;
 
 }
+.homepage .jumbotron {
+  text-align: center;
+  background-image: url("../image/IMG_1975.JPG");
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+}
 .ai-content .jumbotron {
   text-align: center;
   background-image: url("../2D/Isometric-01.jpg");
@@ -171,7 +179,7 @@ h3,h4{
 }
 .quotes  {
   text-align: center;
-  margin-top: 50px;
+  margin-top: 30px;
 
 }
 .quotes a {
@@ -274,4 +282,7 @@ h3,h4{
 }
 .modal-header {
   text-align: center;
+}
+.modal-footer a {
+  margin-top: 20px;
 }
