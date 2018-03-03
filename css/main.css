@@ -1,300 +1,40 @@
-body {
-  margin: 30px;
-  background-color: #f5e0cd;
-  font-family: 'Open Sans', sans-serif;
-}
-
-.navbar-default .navbar-brand{
-  color: #000000;
-  background-color: #FFFFFF;
 
 
+.bg {
+  background-color: initial;
 }
-.container-fluid {
-  background-color: #FFFFFF;
-}
-.navbar-default .navbar-nav li a {
-  color: #000000;
-  background-color: #FFFFFF;
-  font-weight: bold;
+.jumbotron-imgs {
+  background-size: 100% auto ;
+  height: 100%;
+  background-image: url("../images/bg.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
 
 
 }
-.navbar-default{
-  background-color: #ffffff;
-  border: none;
-  font-family: 'Open Sans', sans-serif;
-}
-.navbar-header a{
-  font-weight: bold;
-  font-style: italic;
-  background-color: #000000;
-}
-.navbar-default .navbar-collapse, .navbar-default .navbar-form {
-  border: none;
-}
-.btn {
-  border-radius: 0px;
-}
 
-a {
-  font-weight: bold;
-  font-style: italic;
-  color: #000000;
-}
 
-.modal-body,.modal-header,.modal-footer {
-  background-color: #f5e0cd;
-  color: #000000;
-  font-family: 'Open Sans', sans-serif;
-}
-.modal-body{
-  text-align: center;
-  color: #FFFFFF;
-}
-.modal-footer {
-  border-top: none;
-  font-weight: bold;
-  font-style: italic;
-  font-family: 'Open Sans', sans-serif;
-}
-.modal-header {
-  border-bottom: none;
-  font-weight: bold;
-  font-style: italic;
-  font-family: 'Open Sans', sans-serif;
-}
-
-.contant img {
-  width: 100%;
-  height: auto;
-}
-.contant {
-  text-align: center;
-}
-.contant h1 {
-  color: #FFFFFF;
-}
-.col-md-6 {
-  text-align: center;
-}
-.banner .row .col-md-6 {
-  padding-left: 0px;
-  padding-right: 0px;
-}
 .jumbotron {
   background-color: inherit;
-  text-align: center;
 }
-.col-md-6 .photo {
-  background: url("../image/IMG_9454.jpg");
-  background-size: 100% auto;
-  background-repeat: no-repeat;
-  height: 468px;
-
-
-}
-.col-md-6 .photo a {
-  font-size: 250%;
-  color: #FFFFFF;
-}
-.col-md-6 .photo a:hover {
-  font-weight: bold;
-  font-style: italic;
-  text-decoration: none;
-
-}
-
-.col-md-6 .ai {
-  background-image: url("../2D/Cigarette-01.jpg");
-  background-size: 100% auto;
-  background-repeat: no-repeat;
-  height: 468px;
-}
-.col-md-6 .ai a {
-  font-size: 250%;
-  color: #FFFFFF;
-}
-.col-md-6 .ai a:hover {
-  font-weight: bold;
-  font-style: italic;
-  text-decoration: none;
-
-}
-.homepage .jumbotron {
-  text-align: center;
-  background-image: url("../image/IMG_1975.JPG");
-  background-size: 100% auto;
-  background-repeat: no-repeat;
-  background-position: center;
-  width: 100%;
-}
-.ai-content .jumbotron {
-  text-align: center;
-  background-image: url("../2D/Isometric-01.jpg");
-  background-size: 100% auto;
-  background-repeat: no-repeat;
-  background-position: center;
-  width: 100%;
-}
-
-.col-md-6 img {
-  margin: 10px;
-}
-hr {
-  width: 80%;
-  border-color: #FFFFFF;
-  border-top: 5px;
-  border-style: solid;
-  background-color: #FFFFFF;
-}
-.ai-text {
-  margin: 70px;
-  color: #FFFFFF;
-  font-family: 'Open Sans', sans-serif;
-}
-h3,h4{
-  opacity: 0.5;
-}
-.modal-body img {
-  margin: 10px;
-}
-.photo-content .jumbotron {
-  text-align: center;
-  background-image: url("../imgs/IMG_0458.jpg");
-  background-size: 100% auto;
-  background-repeat: no-repeat;
-  background-position: center;
-  width: 100%;
-}
-
-.photo-text {
-  margin: 70px;
-  color: #FFFFFF;
-  font-family: 'Open Sans', sans-serif;
-}
-.img-rounded {
-  width: 70%;
-  height: auto;
-}
-.quotes  {
-  text-align: center;
-  margin-top: 30px;
-
-}
-.quotes a {
-  color: #D1D1CF;
-}
-.quotes h1  {
-
-  font-family: 'Inconsolata', monospace;
-  color: #FFFFFF;
-  font-size: 32px;
-
-}
-.quotes p {
-
-  font-family: 'Open Sans', sans-serif;
-  color: #FFFFFF;
-}
-.col-md-12 {
-
-  text-align: center;
-
-}
-.name {
-  float: left;
-}
-.icon {
-  float: right;
-}
-.modal-body a {
-  color: #FFFFFF;
-  text-decoration: none;
-
-}
-.col-md-4 {
-  text-align: center;
-}
-.modal-footer a {
-  color: #FFFFFF;
-  float: left;
-}
-.carousel-control {
-  position: absolute;
-  bottom: 0;
-  top: inherit;
-  text-shadow: none;
-}
-.carousel-inner p {
-  float: right;
-}
-.jumbotron .full button {
-  float: right;
-  color: #FFFFFF;
-  margin: 10px;
-}
-.full-img img {
-  align-items: center;
-}
-.btn {
-  background-color: inherit;
-  border: none;
-}
-.port img {
-  margin: 0px;
-}
-.contant-photo-1 {
-  width: 70%;
-  height: auto;
-}
-.col-md-4 {
+.about-mee {
   margin-top: 30px;
   margin-bottom: 30px;
-  margin-left: 0px;
-  margin-right: 0px;
+}
+.h4-main {
+  margin-right: auto;
+  margin-left: auto;
+
 
 }
+.btn-main {
 
-.col-md-4 .photo-1{
-  background-image: url("../imgs/img/Panorama1.jpg");
-  background-size: 100% auto;
+  color: #000000;
+
 }
-.photo-1 a {
-  float: right;
-  color: #ffffff;
-  margin-top: -30px;
-}
-.email a {
-  font-style: normal;
-  font-weight: lighter;
-}
-.email a:hover {
-  text-decoration: underline;
-  font-weight: bold;
-}
-.contant-ai-1 {
-  width: 70%;
-  height: auto;
-}
-.photo-1 img {
-  opacity: 0;
-}
-.modal-header {
-  text-align: center;
-}
-.modal-footer a {
-  margin-top: 20px;
-}
-a .jumbotron h3 {
-  color: #FFFFFF;
-  opacity: inherit;
-  font-size: 250%;
-}
-a .jumbotron h3:hover{
-  text-decoration: none;
-  font-size: 300%;
-}
-a:hover {
-  text-decoration: none;
+.work-main {
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
 }
